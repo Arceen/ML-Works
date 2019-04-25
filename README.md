@@ -1,2 +1,2 @@
 # ML-Works
-Folder for my ML projects
+ML working projects(Run on Jupyter Notebook or Google Collaboratory)
