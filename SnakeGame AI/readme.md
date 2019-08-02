@@ -1,1 +1,1 @@
-Current condition of the Snake AI is Here: <a>https://youtu.be/9uNmvPFgKA0</a>
+Snake AI Video: <a>https://youtu.be/9uNmvPFgKA0</a>
